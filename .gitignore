@@ -68,3 +68,6 @@ Thumbs.db
 .dmypy.json
 dmypy.json
 *.code-workspace
+
+# Claude Code
+.claude/
